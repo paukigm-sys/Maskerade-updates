@@ -1,7 +1,7 @@
 {
   "version": "1.18",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.18_online.zip",
-  "sha256": "fa286b67aae9887301b6e8df7e8f730a950f309b35621c26e3b7c05a8e48d75a",
-  "notes": "Maskerade 1.18: mejoras de hotfolder, Nuvol, seguridad de instalador y publicacion online.",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.18_bridge.zip",
+  "sha256": "022b2290a67ba02ac1cb6d0da5aca7f3881d7d829d8bb310680c5c585a299c3a",
+  "notes": "Maskerade 1.18: actualizacion puente para reparar el updater online desde el boton.",
   "published_at": "2026-06-22T17:00:00+02:00"
 }
