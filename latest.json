@@ -1,7 +1,7 @@
 {
   "version": "1.17",
-  "url": "https://github.com/paukigm-sys/Maskerade-updates/releases/download/v1.17/Maskerade_update_1.17_20260622_1125.zip",
-  "sha256": "6f04b2367d7f71a4294e1af4844fa74cf838e9dd0caa64dd78694e9ff20e5103",
-  "notes": "Maskerade 1.17: prueba de autoactualizacion online desde el boton Actualizar.",
-  "published_at": "2026-06-22T11:30:00+02:00"
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.17_sslfix_raw.zip",
+  "sha256": "870f2b5a25f747839a3a98c3b0347e0c55b655200f450f0296b0890efd01096b",
+  "notes": "Maskerade 1.17: prueba de autoactualizacion online desde el boton Actualizar con descarga ligera y certificados actualizados.",
+  "published_at": "2026-06-22T11:45:00+02:00"
 }
