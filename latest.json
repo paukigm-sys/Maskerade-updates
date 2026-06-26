@@ -1,7 +1,7 @@
 {
-  "version": "1.20",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.20_cuevas.zip",
-  "sha256": "771e7481285d139260bf2be5142ed2c4a002259bfa752f673c6dbb5137fe0d01",
-  "notes": "Maskerade 1.20: mini parche Cuevas para corregir orientacion EXIF al guardar JPEG.",
-  "published_at": "2026-06-23T15:00:00+02:00"
+  "version": "1.30",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.30_online.zip",
+  "sha256": "882f8875b80d9a68afe2797b86596d5112bd1d44b15c4fd8a469e9ca9b10621a",
+  "notes": "Maskerade 1.30: loader inicial, instancia unica, mejoras Nuvol/hotfolder, optimizacion de preview/composicion y nuevos ajustes de mejora de foto.",
+  "published_at": "2026-06-26T15:56:00+02:00"
 }
