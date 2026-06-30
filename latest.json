@@ -1,7 +1,7 @@
 {
-  "version": "1.30",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.30_online.zip",
-  "sha256": "882f8875b80d9a68afe2797b86596d5112bd1d44b15c4fd8a469e9ca9b10621a",
-  "notes": "Maskerade 1.30: loader inicial, instancia unica, mejoras Nuvol/hotfolder, optimizacion de preview/composicion y nuevos ajustes de mejora de foto.",
-  "published_at": "2026-06-26T15:56:00+02:00"
+  "version": "1.40",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.40_online.zip",
+  "sha256": "8f2df94d00ca03ab631eba4c0738cad4bf4295f87a708a79694bc8baea599da4",
+  "notes": "Maskerade 1.40: selector de series para Cuevas, QEnhancer Cuevas, mejoras de recorte/fantasmas y ajustes de procesado/hotfolder.",
+  "published_at": "2026-06-30T23:14:00+02:00"
 }
