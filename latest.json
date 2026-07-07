@@ -1,7 +1,7 @@
 {
   "version": "1.56",
   "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.56_online.zip",
-  "sha256": "b8453e95eeff6afc2e14c34dcfdc5890f9980dfa363739d764c94fbe445b8c91",
-  "notes": "Maskerade 1.56: logging de escritorio desde el arranque, errores topmost visibles y controles manuales de QEnhancer.",
-  "published_at": "2026-07-07T23:46:58+02:00"
+  "sha256": "de94147e0f5ce421b85146b896769ed69f1c54116bb9e8439d514c46144796a9",
+  "notes": "Maskerade 1.56: repara arranque sin settings.json, logging de escritorio desde el arranque, errores topmost visibles y controles manuales de QEnhancer.",
+  "published_at": "2026-07-07T23:52:00+02:00"
 }
