@@ -1,7 +1,7 @@
 {
-  "version": "1.51",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.51_online.zip",
-  "sha256": "912b2ed97ce60f2e850616ad8352d7212626f13ab0251ab052dd78e5403c6070",
-  "notes": "Maskerade 1.51: parche del updater online para aceptar paquetes con UpdateFiles o con estructura directa de instalacion.",
-  "published_at": "2026-07-06T14:00:59+02:00"
+  "version": "1.55",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.55_online.zip",
+  "sha256": "f898beb02714bf075aaf0e34acb6a8534e75970fcc6ca3c4f99b9fcdc3f0af85",
+  "notes": "Maskerade 1.55: mejoras de rendimiento BEN2, procesado por lotes, monitor de rendimiento opcional, armonizado y correcciones de mascara/orientacion.",
+  "published_at": "2026-07-07T22:43:51+02:00"
 }
