@@ -1,7 +1,7 @@
 {
-  "version": "1.61",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.61_online.zip",
-  "sha256": "439dd7a812d15fddd5deb919cd497a4c411f0e9ce037263b302a6ed50ab4d5ef",
-  "notes": "Maskerade 1.61: presets .qes para QEnhancer, mejora del motor QEnhancer, paneles de assets reajustables y salida adaptada al fondo.",
-  "published_at": "2026-07-09T12:02:12+02:00"
+  "version": "1.62",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.62_online.zip",
+  "sha256": "6bdbaf5087cb1fca9953cdc2d0e85d6a62358c235062ae4b43f57a8877a82f6c",
+  "notes": "Maskerade 1.62: hotfix del update online para que secure_migrate cree profile.cache si falta la config y no deje la actualizacion bloqueada.",
+  "published_at": "2026-07-09T12:13:41+02:00"
 }
