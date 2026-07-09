@@ -1,7 +1,7 @@
 {
-  "version": "1.62",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.62_online.zip",
-  "sha256": "6bdbaf5087cb1fca9953cdc2d0e85d6a62358c235062ae4b43f57a8877a82f6c",
-  "notes": "Maskerade 1.62: hotfix del update online para que secure_migrate cree profile.cache si falta la config y no deje la actualizacion bloqueada.",
-  "published_at": "2026-07-09T12:13:41+02:00"
+  "version": "1.63",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.63_online.zip",
+  "sha256": "20a489aa0ef2f4db4f8a476b03c63ce2e65429f6f7c21dc3d569d25586b13fe5",
+  "notes": "Maskerade 1.63: hotfix del update online para que secure_migrate use la instalacion real aunque el script se ejecute desde tmp/updates.",
+  "published_at": "2026-07-09T12:21:43+02:00"
 }
