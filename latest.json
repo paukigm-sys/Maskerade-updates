@@ -1,7 +1,7 @@
 {
-  "version": "1.80",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.80_online.zip",
-  "sha256": "dfeb752cdcf27976b10d55d38db5f3d459114b99f1893eb6e4569b6b255f2a20",
-  "notes": "Maskerade 1.80: modulo Cloud reemplaza Nuvol, migracion segura de configuracion a profile.cache, update se detiene si no puede cifrar, y limpieza de componentes antiguos.",
-  "published_at": "2026-07-16T13:58:20+02:00"
+  "version": "1.81",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.81_online.zip",
+  "sha256": "c82bab5896f4c12e39e9740c549c15409550ed09f0d651f319a73075ce5a4cab",
+  "notes": "Maskerade 1.81: limpia branding antiguo, usa solo assets/maskerade_logo.png, mejora migracion Cloud desde backups legacy y muestra resumen si Cloud falla.",
+  "published_at": "2026-07-16T14:26:31+02:00"
 }
