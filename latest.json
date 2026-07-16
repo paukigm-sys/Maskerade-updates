@@ -1,7 +1,7 @@
 {
-  "version": "1.71",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.71_online.zip",
-  "sha256": "88520bd85e3e41f31e12d6cc93b7a0261768d015bd230fc70f6150f249c6bf4a",
-  "notes": "Maskerade 1.71: boton de actualizar avisa en azul si hay version nueva, preview de persona mas rapido, presets rapidos de retoque, logs con rotacion y avisos si falta fondo de preset.",
-  "published_at": "2026-07-16T12:02:02+02:00"
+  "version": "1.80",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.80_online.zip",
+  "sha256": "dfeb752cdcf27976b10d55d38db5f3d459114b99f1893eb6e4569b6b255f2a20",
+  "notes": "Maskerade 1.80: modulo Cloud reemplaza Nuvol, migracion segura de configuracion a profile.cache, update se detiene si no puede cifrar, y limpieza de componentes antiguos.",
+  "published_at": "2026-07-16T13:58:20+02:00"
 }
