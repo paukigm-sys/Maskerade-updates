@@ -1,7 +1,7 @@
 {
-  "version": "1.70",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.70_online.zip",
-  "sha256": "18b20de994e78ebd3bc49e287bac4a110254b6d42558abf903d2027add6e43be",
-  "notes": "Maskerade 1.70: nuevo sistema de retoque foto, recetas por montaje/tirador, hotfolder con reintentos y failed automatico, retirada de Enhancer2.",
-  "published_at": "2026-07-14T20:37:32+02:00"
+  "version": "1.71",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.71_online.zip",
+  "sha256": "88520bd85e3e41f31e12d6cc93b7a0261768d015bd230fc70f6150f249c6bf4a",
+  "notes": "Maskerade 1.71: boton de actualizar avisa en azul si hay version nueva, preview de persona mas rapido, presets rapidos de retoque, logs con rotacion y avisos si falta fondo de preset.",
+  "published_at": "2026-07-16T12:02:02+02:00"
 }
