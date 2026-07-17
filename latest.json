@@ -1,7 +1,7 @@
 {
-  "version": "1.82",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.82_online.zip",
-  "sha256": "1b95d125e1996926cd2d495483986c041502e979bf05e8f7758eff9a2f48ceae",
-  "notes": "Maskerade 1.82: pipeline mas rapido en hotfolder/lote, migracion Cloud se repara al cargar config, preview estable durante procesado y splash desde assets.",
-  "published_at": "2026-07-16T16:02:51+02:00"
+  "version": "1.83",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.83_online.zip",
+  "sha256": "4f7659e01d82f0ccf6398ab3f3177820ae63a2b719c219b7d93d4ba1e929f5aa",
+  "notes": "Maskerade 1.83: mejora presets personales de retoque, iguala color vertical/horizontal, unifica harmonize y limpia preset QEnhancer neutro.",
+  "published_at": "2026-07-17T14:03:28+02:00"
 }
