@@ -1,7 +1,7 @@
 {
-  "version": "1.83",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.83_online.zip",
-  "sha256": "4f7659e01d82f0ccf6398ab3f3177820ae63a2b719c219b7d93d4ba1e929f5aa",
-  "notes": "Maskerade 1.83: mejora presets personales de retoque, iguala color vertical/horizontal, unifica harmonize y limpia preset QEnhancer neutro.",
-  "published_at": "2026-07-17T14:03:28+02:00"
+  "version": "1.84",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.84_online.zip",
+  "sha256": "b631baa335dc6cd358fa97e395c79e3ceb8a2b9a7bb855caae7b32373fb9fa22",
+  "notes": "Maskerade 1.84: mejora los niveles de conservacion de mascara y corrige presets cuando falta una orientacion.",
+  "published_at": "2026-07-20T10:49:51+02:00"
 }
