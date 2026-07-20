@@ -1,7 +1,7 @@
 {
-  "version": "1.84",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.84_online.zip",
-  "sha256": "b631baa335dc6cd358fa97e395c79e3ceb8a2b9a7bb855caae7b32373fb9fa22",
-  "notes": "Maskerade 1.84: mejora los niveles de conservacion de mascara y corrige presets cuando falta una orientacion.",
-  "published_at": "2026-07-20T10:49:51+02:00"
+  "version": "1.85",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.85_online.zip",
+  "sha256": "f59e8402559bcd1eacdf8f4612003ffc2324ec809a59bad433eea96e95aa7143",
+  "notes": "Maskerade 1.85: reinicia Hotfolder al cambiar Parque Cloud, corrige el estado pendiente tras descargar y mejora el resumen final y las alertas.",
+  "published_at": "2026-07-20T13:23:40+02:00"
 }
