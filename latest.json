@@ -1,7 +1,7 @@
 {
-  "version": "1.90",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_1.90_online.zip",
-  "sha256": "8772376ac7697d70c6f0412bd04a7c5736efab40663cb4c3fc693b1f3395277c",
-  "notes": "Maskerade 1.90: amplia el control de mascara hasta -100, refuerza el borrado extremo y mejora el rescate de personas.",
-  "published_at": "2026-07-21T00:22:26+02:00"
+  "version": "2.00",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_2.00_online.zip",
+  "sha256": "ec9285a858da0660b784e3295e72447147f194db3b49f8aeec9f795599eea014",
+  "notes": "Maskerade 2.00: refuerza Cloud con reintentos y credenciales, mejora presets y Hotfolder, mascara y avisos de failed.",
+  "published_at": "2026-07-24T14:19:23+02:00"
 }
