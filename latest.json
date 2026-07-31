@@ -1,7 +1,7 @@
 {
-  "version": "2.00",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_2.00_online.zip",
-  "sha256": "ec9285a858da0660b784e3295e72447147f194db3b49f8aeec9f795599eea014",
-  "notes": "Maskerade 2.00: refuerza Cloud con reintentos y credenciales, mejora presets y Hotfolder, mascara y avisos de failed.",
-  "published_at": "2026-07-24T14:19:23+02:00"
+  "version": "2.10",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_2.10_online.zip",
+  "sha256": "147e3b552acc861157563b85e774e3a54420c188bc12c586e43ea9185358f9cf",
+  "notes": "Maskerade 2.10: anade buscador y procesado individual, fija presets en lote y Hotfolder, y mejora reintentos de fotos incompletas.",
+  "published_at": "2026-07-31T13:46:07+02:00"
 }
