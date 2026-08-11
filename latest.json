@@ -1,7 +1,7 @@
 {
-  "version": "2.50",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_2.50_online.zip",
-  "sha256": "566bbae7457b8cea7deb2d06f846098a53c8e0143a837d44f5ac01882da8ea8b",
-  "notes": "Maskerade 2.50: anade reparacion de fantasmas y brillo de fondo, refuerza Hotfolder y Cloud, y asegura las actualizaciones online.",
-  "published_at": "2026-08-11T10:46:17+02:00"
+  "version": "2.51",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_2.51_online.zip",
+  "sha256": "05e64f00a7b12a9b3f3691f5e419caf4fb48c144edb8df2eaab97780d326f292",
+  "notes": "Maskerade 2.51: anade reparacion de fantasmas y brillo de fondo, refuerza Hotfolder y Cloud, y asegura las actualizaciones online.",
+  "published_at": "2026-08-11T10:47:53+02:00"
 }
