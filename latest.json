@@ -1,7 +1,7 @@
 {
-  "version": "2.60",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_2.60_online.zip",
-  "sha256": "2e43896b8bf94a28ab606a531cd304764fce816bfc583250dd3baa57d2349ddf",
-  "notes": "Maskerade 2.60: protege fotos que llegan con el mismo nombre, audita cada entrega Cloud y confirma la descarga antes de completar el trabajo.",
-  "published_at": "2026-08-12T16:31:28Z"
+  "version": "2.61",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_2.61_online.zip",
+  "sha256": "efc423dcb8f64d0ad176e33b5c7f9a54ee88cc1790a3e5b86bcef7af1e2b4960",
+  "notes": "Maskerade 2.61: la limpieza inicial envia los trabajos a la Papelera de Windows para que puedan recuperarse.",
+  "published_at": "2026-08-12T16:58:36Z"
 }
