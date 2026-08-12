@@ -1,7 +1,7 @@
 {
-  "version": "2.51.2",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_2.51.2_online.zip",
-  "sha256": "74e94b6f635b6975abeff8133c1b5fd00a3258d6c6bb6ed00a0a6567779270bc",
-  "notes": "Maskerade 2.51.2: mejora el progreso y los avisos de FAILED, evita heredar lotes antiguos y estabiliza la deteccion online.",
-  "published_at": "2026-08-12T10:45:32+02:00"
+  "version": "2.60",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_2.60_online.zip",
+  "sha256": "2e43896b8bf94a28ab606a531cd304764fce816bfc583250dd3baa57d2349ddf",
+  "notes": "Maskerade 2.60: protege fotos que llegan con el mismo nombre, audita cada entrega Cloud y confirma la descarga antes de completar el trabajo.",
+  "published_at": "2026-08-12T16:31:28Z"
 }
