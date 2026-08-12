@@ -1,7 +1,7 @@
 {
-  "version": "2.51.1",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_2.51.1_online.zip",
-  "sha256": "935ed0f5b43c8d927ffdeebdf46c2b14b62a6ce2b00918341e29c37e2e46f263",
-  "notes": "Maskerade 2.51.1: mejora el progreso de lotes, aclara los avisos de FAILED y evita heredar progreso de ejecuciones anteriores.",
-  "published_at": "2026-08-12T10:39:38+02:00"
+  "version": "2.51.2",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_2.51.2_online.zip",
+  "sha256": "74e94b6f635b6975abeff8133c1b5fd00a3258d6c6bb6ed00a0a6567779270bc",
+  "notes": "Maskerade 2.51.2: mejora el progreso y los avisos de FAILED, evita heredar lotes antiguos y estabiliza la deteccion online.",
+  "published_at": "2026-08-12T10:45:32+02:00"
 }
