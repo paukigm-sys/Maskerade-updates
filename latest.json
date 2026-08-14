@@ -1,7 +1,7 @@
 {
-  "version": "2.61",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_2.61_online.zip",
-  "sha256": "efc423dcb8f64d0ad176e33b5c7f9a54ee88cc1790a3e5b86bcef7af1e2b4960",
-  "notes": "Maskerade 2.61: la limpieza inicial envia los trabajos a la Papelera de Windows para que puedan recuperarse.",
-  "published_at": "2026-08-12T16:58:36Z"
+  "version": "2.70",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_2.70_online.zip",
+  "sha256": "f089c57346e2f4524c75725312d04280c49b81d733ba188b1301247690f03136",
+  "notes": "Maskerade 2.70: mejora la mascara al 25%, evita carreras con fotos movidas y conecta Cloud sin bloquear la interfaz.",
+  "published_at": "2026-08-14T13:25:47Z"
 }
