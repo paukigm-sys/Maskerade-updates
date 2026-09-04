@@ -1,0 +1,6 @@
+{
+  "version": "3.0.0",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.0.0_online.zip",
+  "sha256": "2bd50b1b6c26a749dd8c6747cd8f34b039686b0a975e389f63c6875ada13e260",
+  "notes": "Maskerade 3.0.0: nuevo motor hibrido BiRefNet con respaldo BEN2/U2Net, mejoras de mascara, presets por orientacion, retoque y vista previa, junto con una actualizacion online mas segura y reanudable."
+}
