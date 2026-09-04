@@ -1,7 +1,7 @@
 {
-  "version": "2.70",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_2.70_online.zip",
-  "sha256": "f089c57346e2f4524c75725312d04280c49b81d733ba188b1301247690f03136",
-  "notes": "Maskerade 2.70: mejora la mascara al 25%, evita carreras con fotos movidas y conecta Cloud sin bloquear la interfaz.",
-  "published_at": "2026-08-14T13:25:47Z"
+  "version": "3.0.0",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.0.0_online.zip",
+  "sha256": "2bd50b1b6c26a749dd8c6747cd8f34b039686b0a975e389f63c6875ada13e260",
+  "notes": "Maskerade 3.0.0: nuevo motor hibrido BiRefNet con respaldo BEN2/U2Net, mejoras de mascara, presets por orientacion, retoque y vista previa, junto con una actualizacion online mas segura y reanudable.",
+  "published_at": "2026-09-04T10:40:52Z"
 }
