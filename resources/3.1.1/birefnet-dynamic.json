@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "resource": "birefnet-dynamic",
+  "version": "3.1.1",
+  "archive_name": "Maskerade_BiRefNet_dynamic_3.1.1.zip",
+  "archive_size": 408317548,
+  "archive_sha256": "c4272daf26430ae004b3ce553b28dcda1d87bbcaa3405982aff4f99be69abf48",
+  "installed_path": "models/BiRefNet_dynamic",
+  "parts": [
+    {
+      "index": 1,
+      "name": "Maskerade_BiRefNet_dynamic_3.1.1.zip.part001",
+      "url": "https://github.com/paukigm-sys/Maskerade-updates/releases/download/resources-3.1.1/Maskerade_BiRefNet_dynamic_3.1.1.zip.part001",
+      "size": 67108864,
+      "sha256": "ef3612cd33b971791e907b6c9c9784ee20e8cf3ba00752c0e0511b90e8757cd6"
+    },
+    {
+      "index": 2,
+      "name": "Maskerade_BiRefNet_dynamic_3.1.1.zip.part002",
+      "url": "https://github.com/paukigm-sys/Maskerade-updates/releases/download/resources-3.1.1/Maskerade_BiRefNet_dynamic_3.1.1.zip.part002",
+      "size": 67108864,
+      "sha256": "ef83bccad8bda016c74053b71f346744b4a49c010197a24ef61c480c528472ea"
+    },
+    {
+      "index": 3,
+      "name": "Maskerade_BiRefNet_dynamic_3.1.1.zip.part003",
+      "url": "https://github.com/paukigm-sys/Maskerade-updates/releases/download/resources-3.1.1/Maskerade_BiRefNet_dynamic_3.1.1.zip.part003",
+      "size": 67108864,
+      "sha256": "a390e65c1ee2d031831f1d8279bbab5cb4c8eb394bb65e35bd0b7b4156f6102d"
+    },
+    {
+      "index": 4,
+      "name": "Maskerade_BiRefNet_dynamic_3.1.1.zip.part004",
+      "url": "https://github.com/paukigm-sys/Maskerade-updates/releases/download/resources-3.1.1/Maskerade_BiRefNet_dynamic_3.1.1.zip.part004",
+      "size": 67108864,
+      "sha256": "c16afff9a20a2e3b79afab603271147d9d8fb0198a4702046cc559acebd50076"
+    },
+    {
+      "index": 5,
+      "name": "Maskerade_BiRefNet_dynamic_3.1.1.zip.part005",
+      "url": "https://github.com/paukigm-sys/Maskerade-updates/releases/download/resources-3.1.1/Maskerade_BiRefNet_dynamic_3.1.1.zip.part005",
+      "size": 67108864,
+      "sha256": "093515f48b7e01ba83b992c41b1ee736a850a118d3a779ff102dceefc02f3ffc"
+    },
+    {
+      "index": 6,
+      "name": "Maskerade_BiRefNet_dynamic_3.1.1.zip.part006",
+      "url": "https://github.com/paukigm-sys/Maskerade-updates/releases/download/resources-3.1.1/Maskerade_BiRefNet_dynamic_3.1.1.zip.part006",
+      "size": 67108864,
+      "sha256": "3b8108dc056e9d1cc8eb52a209af570aa2f339321395a608d1a71d913a61196d"
+    },
+    {
+      "index": 7,
+      "name": "Maskerade_BiRefNet_dynamic_3.1.1.zip.part007",
+      "url": "https://github.com/paukigm-sys/Maskerade-updates/releases/download/resources-3.1.1/Maskerade_BiRefNet_dynamic_3.1.1.zip.part007",
+      "size": 5664364,
+      "sha256": "518be0eb073bc85244ca400c6a9fedd0edc2ca7db66c0c08699bd5012e9a1c0b"
+    }
+  ],
+  "files": [
+    {
+      "path": "model.safetensors",
+      "size": 444473596,
+      "sha256": "e3d2e4884e51ff30f0cd630edc6b1e41b06b7f23a0a2a5169f7b7cb33a711c2d"
+    },
+    {
+      "path": "config.json",
+      "size": 413,
+      "sha256": "557f461de22ede5b0a2ff60967e579180194ded47587f6e30a3a09ad08ae248b"
+    },
+    {
+      "path": "BiRefNet_config.py",
+      "size": 298,
+      "sha256": "e7b8c2a74f6cea6a59553d517f71d47f2c1d90e670a13416af17c25fe2f3dc52"
+    },
+    {
+      "path": "birefnet.py",
+      "size": 92134,
+      "sha256": "2a45b4e0ece72d7c4212bca1a988e7d7e52bfe9f98ec59c58b8809c8a8b7a831"
+    },
+    {
+      "path": "handler.py",
+      "size": 5256,
+      "sha256": "a1ea9391d06df142f35217af9c84953cf4a21fff0e1f37469afb3fe14565bc3e"
+    },
+    {
+      "path": "README.md",
+      "size": 11184,
+      "sha256": "bc9008b95a26984e92ed29c7d65e53b5f3d560dbe36a2e77090e9c5d577fba83"
+    },
+    {
+      "path": "LICENSE",
+      "size": 1067,
+      "sha256": "1374cc8f7c8a6fb14a7f76be2df1446e1fec52455972fd9fce14b72b87812e8e"
+    }
+  ]
+}
