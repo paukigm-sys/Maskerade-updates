@@ -1,7 +1,7 @@
 {
-  "version": "3.0.1",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.0.1_online.zip",
-  "sha256": "19313be026eb72401ec375cc6b26961fe4a7f4cd6802f967a5948e65e40740f1",
-  "notes": "Maskerade 3.0.1: mejora la adaptacion visual en portatiles y pantallas pequenas, con splash escalable, ventana inicial ajustada y campos de texto mas legibles. Mantiene el motor hibrido BiRefNet con respaldo BEN2/U2Net de la version 3.0.0.",
-  "published_at": "2026-09-04T11:11:28Z"
+  "version": "3.1.1",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.1.1_online.zip",
+  "sha256": "d2fe64bdef983e52a676bdead5eb77975b7139ad5f4f3147f15ea4a263e25016",
+  "notes": "Maskerade 3.1.1: nuevo motor hibrido BiRefNet Dynamic con validacion selectiva y respaldo BEN2/U2Net; descarga reanudable del modelo en 7 partes verificadas; gestion mejorada de presets y miniaturas; limpieza diaria segura del hotfolder; aviso claro de procesamiento por CPU; mejoras de rendimiento y adaptacion visual. Corrige el arranque del instalador del motor con el Python portable.",
+  "published_at": "2026-09-08T18:45:26Z"
 }
