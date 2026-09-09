@@ -1,7 +1,7 @@
 {
-  "version": "3.1.1",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.1.1_online.zip",
-  "sha256": "d2fe64bdef983e52a676bdead5eb77975b7139ad5f4f3147f15ea4a263e25016",
-  "notes": "Maskerade 3.1.1: nuevo motor hibrido BiRefNet Dynamic con validacion selectiva y respaldo BEN2/U2Net; descarga reanudable del modelo en 7 partes verificadas; gestion mejorada de presets y miniaturas; limpieza diaria segura del hotfolder; aviso claro de procesamiento por CPU; mejoras de rendimiento y adaptacion visual. Corrige el arranque del instalador del motor con el Python portable.",
-  "published_at": "2026-09-08T18:45:26Z"
+  "version": "3.1.2",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.1.2_online.zip",
+  "sha256": "c0d481e43c6e48dd67c2c6d9721e71798b446caf5c3678db564a84b7b1dda0e6",
+  "notes": "Maskerade 3.1.2: incluye Kornia 0.8.3 y kornia-rs 0.1.14 en el runtime privado sin instalar paquetes a mano ni cambiar Torch. Corrige la precarga del motor y muestra los errores y el respaldo BEN2 en lote y Hotfolder. Ajusta el contexto de procesamiento manual, los contadores y el resumen al finalizar Cloud. Mejora ayudas y panel de progreso. Conserva el recurso Dynamic 3.1.1.",
+  "published_at": "2026-09-09T18:34:20Z"
 }
