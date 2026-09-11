@@ -1,7 +1,7 @@
 {
-  "version": "3.1.3",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.1.3_online.zip",
-  "sha256": "5f52fdae546c8a383c55adc3969611ae5cbfb3be1db5bee7dc26d58b2440e9e1",
-  "notes": "Maskerade 3.1.3: corrige el fallo de copia con Kornia ya instalada. Conserva las dependencias identicas e instala las ausentes desde el paquete, sin pip manual. Cierra los procesos de la instalacion antes de reemplazar archivos y valida el runtime antes de reabrir. Compatible con el actualizador 3.1.1. Mantiene Torch y el modelo Dynamic 3.1.1 sin cambios. Mejora el dialogo de version actual.",
-  "published_at": "2026-09-11T12:15:15Z"
+  "version": "3.1.4",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.1.4_online.zip",
+  "sha256": "7ef679fd2de05849a6005fc90a75bc841e732ff422078b725235e443bd0c7641",
+  "notes": "Maskerade 3.1.4: el boton Actualizar consulta siempre la ultima version, aunque ya este azul. Evita avisos antiguos guardados al arrancar y respuestas atrasadas de la consulta inicial. Incluye la correccion 3.1.3 de Kornia y del cierre de procesos. Mantiene Torch y el modelo Dynamic 3.1.1 sin cambios.",
+  "published_at": "2026-09-11T12:44:41Z"
 }
