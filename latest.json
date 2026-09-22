@@ -1,7 +1,7 @@
 {
-  "version": "3.2.0",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.2.0_online.zip",
-  "sha256": "1e70b400bfd9be3d9a9aa7f7ebed560addd5aa09e28a8528d7b72a61dcd06a77",
-  "notes": "Maskerade 3.2.0: incorpora splash de actualizacion con fases y reapertura automatica para las siguientes actualizaciones; al venir de una version anterior puede aparecer la consola por ultima vez. Mejora el recorte negativo del motor hibrido, Arreglar foto y la aprobacion en OUT, la apertura en ACDSee y las miniaturas de reglas de presets. Incluye Kornia y conserva dependencias identicas, Torch y el modelo Dynamic 3.1.1 sin volver a descargar los modelos.",
-  "published_at": "2026-09-21T10:17:21Z"
+  "version": "3.2.1",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.2.1_online.zip",
+  "sha256": "4a10352df7de7423dc9d01525ff87791d387a854232cb3bb2948f84c5c0fbfb2",
+  "notes": "Maskerade 3.2.1: elimina el splash duplicado al reabrir tras actualizar y permite moverlo entre pantallas. Ajusta el espacio y la representacion de los textos de foto, preset activo y regla aplicada. Mantiene el motor y las dependencias de 3.2.0 sin cambios.",
+  "published_at": "2026-09-22T09:47:48Z"
 }
