@@ -1,7 +1,7 @@
 {
-  "version": "3.2.1",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.2.1_online.zip",
-  "sha256": "4a10352df7de7423dc9d01525ff87791d387a854232cb3bb2948f84c5c0fbfb2",
-  "notes": "Maskerade 3.2.1: elimina el splash duplicado al reabrir tras actualizar y permite moverlo entre pantallas. Ajusta el espacio y la representacion de los textos de foto, preset activo y regla aplicada. Mantiene el motor y las dependencias de 3.2.0 sin cambios.",
-  "published_at": "2026-09-22T09:47:48Z"
+  "version": "3.7.0",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.7.0_online.zip",
+  "sha256": "123f56a1ac31038b79e798230ced79dd2834e9491c3351261d3db76628be61a3",
+  "notes": "Maskerade 3.7.0: nuevo bokeh del fondo original, conservacion de mesas y grupo, limpieza del codigo Puli y aplicacion directa de presets. Incluye SAM2, MediaPipe y dependencias en el runtime privado; descarga sus modelos por partes solo si faltan o no son validos (157 MB). Conserva Torch, el motor hibrido y la configuracion local. Actualizacion con splash y reapertura automatica.",
+  "published_at": "2026-09-25T13:56:55Z"
 }
