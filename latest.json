@@ -1,7 +1,7 @@
 {
-  "version": "3.7.0",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.7.0_online.zip",
-  "sha256": "123f56a1ac31038b79e798230ced79dd2834e9491c3351261d3db76628be61a3",
-  "notes": "Maskerade 3.7.0: nuevo bokeh del fondo original, conservacion de mesas y grupo, limpieza del codigo Puli y aplicacion directa de presets. Incluye SAM2, MediaPipe y dependencias en el runtime privado; descarga sus modelos por partes solo si faltan o no son validos (157 MB). Conserva Torch, el motor hibrido y la configuracion local. Actualizacion con splash y reapertura automatica.",
-  "published_at": "2026-09-25T13:56:55Z"
+  "version": "3.7.2",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.7.2_online.zip",
+  "sha256": "7d08b86d391a85b5d82e99a0f27de6c4a810a2e1d8876c00e87e7db503565388",
+  "notes": "Maskerade 3.7.2: bokeh sin retoque tonal, desaturacion ni bloom; conserva los colores originales y protege mejor las caras. En mesas largas detectadas o grupos con proteccion dudosa conserva la imagen sin desenfoque. Corrige visor y exportacion. Mantiene Torch, SAM2, MediaPipe y los recursos 3.7.0; los modelos validos no se vuelven a descargar.",
+  "published_at": "2026-09-29T20:44:43Z"
 }
