@@ -1,7 +1,7 @@
 {
-  "version": "3.7.2",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.7.2_online.zip",
-  "sha256": "7d08b86d391a85b5d82e99a0f27de6c4a810a2e1d8876c00e87e7db503565388",
-  "notes": "Maskerade 3.7.2: bokeh sin retoque tonal, desaturacion ni bloom; conserva los colores originales y protege mejor las caras. En mesas largas detectadas o grupos con proteccion dudosa conserva la imagen sin desenfoque. Corrige visor y exportacion. Mantiene Torch, SAM2, MediaPipe y los recursos 3.7.0; los modelos validos no se vuelven a descargar.",
-  "published_at": "2026-09-29T20:44:43Z"
+  "version": "3.8.0",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.8.0_online.zip",
+  "sha256": "b8de2d610490c1c2f9e70e49e9968f81dde5c294676491bd3dcf5cc0902ef088",
+  "notes": "Maskerade 3.8.0: retoque QEnhancer con motor I2E nativo y controles de enfoque. Requiere Q-Enhancer instalado y activado en este PC; prepara I2E y cifra la licencia local automaticamente. Conserva recursos validos. Mejora proteccion de mesas y comensales en bokeh, permite retoque explicito en bokeh y ambas orientaciones, y anade reglas para mover originales a processed sin procesar ni subir a Cloud. Mantiene dependencias y modelos bokeh 3.7.0.",
+  "published_at": "2026-10-01T09:52:23Z"
 }
