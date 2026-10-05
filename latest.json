@@ -1,7 +1,7 @@
 {
-  "version": "3.8.0",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.8.0_online.zip",
-  "sha256": "b8de2d610490c1c2f9e70e49e9968f81dde5c294676491bd3dcf5cc0902ef088",
-  "notes": "Maskerade 3.8.0: retoque QEnhancer con motor I2E nativo y controles de enfoque. Requiere Q-Enhancer instalado y activado en este PC; prepara I2E y cifra la licencia local automaticamente. Conserva recursos validos. Mejora proteccion de mesas y comensales en bokeh, permite retoque explicito en bokeh y ambas orientaciones, y anade reglas para mover originales a processed sin procesar ni subir a Cloud. Mantiene dependencias y modelos bokeh 3.7.0.",
-  "published_at": "2026-10-01T09:52:23Z"
+  "version": "3.8.1",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.8.1_online.zip",
+  "sha256": "3d0c000f149a1fe22b29eb4a26e01cb973f5f2df3f64371624b2cccaf05d3a82",
+  "notes": "Maskerade 3.8.1: incluye el motor I2E autorizado, sin instalar Q-Enhancer por separado. Si falta la licencia local, permite introducirla una vez en un campo protegido y la conserva cifrada para este usuario de Windows. No se publica ninguna clave. Comprueba el motor antes de actualizar y conserva recursos validos. Corrige nombres de foto y asignacion de presets en pantallas compactas; protege mesas bajas y caras en bokeh. Mantiene dependencias y modelos bokeh 3.7.0.",
+  "published_at": "2026-10-05T21:45:40Z"
 }
