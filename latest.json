@@ -1,7 +1,7 @@
 {
-  "version": "3.8.1",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.8.1_online.zip",
-  "sha256": "3d0c000f149a1fe22b29eb4a26e01cb973f5f2df3f64371624b2cccaf05d3a82",
-  "notes": "Maskerade 3.8.1: incluye el motor I2E autorizado, sin instalar Q-Enhancer por separado. Si falta la licencia local, permite introducirla una vez en un campo protegido y la conserva cifrada para este usuario de Windows. No se publica ninguna clave. Comprueba el motor antes de actualizar y conserva recursos validos. Corrige nombres de foto y asignacion de presets en pantallas compactas; protege mesas bajas y caras en bokeh. Mantiene dependencias y modelos bokeh 3.7.0.",
-  "published_at": "2026-10-05T21:45:40Z"
+  "version": "3.8.2",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.8.2_online.zip",
+  "sha256": "12eab7971fce48040e8e4ab88d0f64534c69a344ac92049c4238fb35357aef30",
+  "notes": "Maskerade 3.8.2: el instalador muestra porcentaje por etapas, tarea activa y tiempo transcurrido, sin consola ni doble splash. El 100 % llega cuando Maskerade se ha abierto y responde. Corrige la creacion consecutiva de asignaciones de presets para no reemplazar la anterior y adapta sus avisos al estilo de Maskerade. Mantiene el motor, las dependencias y los modelos de 3.8.1; conserva los recursos validos y no incluye claves ni configuracion local.",
+  "published_at": "2026-10-07T10:41:45Z"
 }
