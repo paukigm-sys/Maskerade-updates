@@ -1,7 +1,7 @@
 {
-  "version": "3.8.2",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.8.2_online.zip",
-  "sha256": "12eab7971fce48040e8e4ab88d0f64534c69a344ac92049c4238fb35357aef30",
-  "notes": "Maskerade 3.8.2: el instalador muestra porcentaje por etapas, tarea activa y tiempo transcurrido, sin consola ni doble splash. El 100 % llega cuando Maskerade se ha abierto y responde. Corrige la creacion consecutiva de asignaciones de presets para no reemplazar la anterior y adapta sus avisos al estilo de Maskerade. Mantiene el motor, las dependencias y los modelos de 3.8.1; conserva los recursos validos y no incluye claves ni configuracion local.",
-  "published_at": "2026-10-07T10:41:45Z"
+  "version": "3.8.3",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.8.3_online.zip",
+  "sha256": "3ff62104184725379406ab8d4f77e1ac70655ffa3ca74496f5d414e5e8e7083b",
+  "notes": "Maskerade 3.8.3: corrige la proteccion del primer plano y mesas en fotos verticales, cuadradas, parejas cercanas y retratos individuales. Las caras pequenas de fondo no bloquean por si solas el bokeh de un retrato; se mantienen las comprobaciones de mesas largas, ninos y caras principales. Ante una mascara insegura conserva la imagen original. Mantiene el instalador con porcentaje, las dependencias y los modelos existentes, sin publicar claves ni configuracion local.",
+  "published_at": "2026-10-08T09:41:05Z"
 }
