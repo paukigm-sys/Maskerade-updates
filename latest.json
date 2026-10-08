@@ -1,7 +1,7 @@
 {
-  "version": "3.8.3",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.8.3_online.zip",
-  "sha256": "3ff62104184725379406ab8d4f77e1ac70655ffa3ca74496f5d414e5e8e7083b",
-  "notes": "Maskerade 3.8.3: corrige la proteccion del primer plano y mesas en fotos verticales, cuadradas, parejas cercanas y retratos individuales. Las caras pequenas de fondo no bloquean por si solas el bokeh de un retrato; se mantienen las comprobaciones de mesas largas, ninos y caras principales. Ante una mascara insegura conserva la imagen original. Mantiene el instalador con porcentaje, las dependencias y los modelos existentes, sin publicar claves ni configuracion local.",
-  "published_at": "2026-10-08T09:41:05Z"
+  "version": "3.8.4",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.8.4_online.zip",
+  "sha256": "a88ee92644f81b0249eff68c94a1152fdd895c5b66cf445b539040de4cd7a815",
+  "notes": "Maskerade 3.8.4: ajusta la comprobacion de caras en retratos cercanos para no confundir las esquinas del contorno con huecos reales. Conserva la comprobacion estricta de mesas largas y sigue rechazando mascaras inseguras. Mejora el diagnostico en el log. Mantiene el instalador con porcentaje, Kornia y los modelos existentes; no publica claves ni configuracion local.",
+  "published_at": "2026-10-08T10:13:58Z"
 }
