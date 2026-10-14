@@ -1,7 +1,7 @@
 {
-  "version": "3.8.4",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.8.4_online.zip",
-  "sha256": "a88ee92644f81b0249eff68c94a1152fdd895c5b66cf445b539040de4cd7a815",
-  "notes": "Maskerade 3.8.4: ajusta la comprobacion de caras en retratos cercanos para no confundir las esquinas del contorno con huecos reales. Conserva la comprobacion estricta de mesas largas y sigue rechazando mascaras inseguras. Mejora el diagnostico en el log. Mantiene el instalador con porcentaje, Kornia y los modelos existentes; no publica claves ni configuracion local.",
-  "published_at": "2026-10-08T10:13:58Z"
+  "version": "3.9.0",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.9.0_online.zip",
+  "sha256": "c67e49132be8117437d0aea8bd15639e335894d499a253485aa4e4fa1c10c081",
+  "notes": "Maskerade 3.9.0: mejora el bokeh con el contorno real de mesas y superficies, sin la franja horizontal fija. Amplia la seleccion de mesas cortas con dos comensales, platos y objetos, tambien en fotos verticales. Ajusta la comprobacion de caras de perfil y falsas detecciones de accesorios, conservando las comprobaciones de huecos reales. Mantiene el motor hibrido, el instalador con porcentaje, las dependencias y los modelos existentes; no publica claves ni configuracion local.",
+  "published_at": "2026-10-14T11:30:07Z"
 }
