@@ -1,7 +1,7 @@
 {
-  "version": "3.9.0",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.9.0_online.zip",
-  "sha256": "c67e49132be8117437d0aea8bd15639e335894d499a253485aa4e4fa1c10c081",
-  "notes": "Maskerade 3.9.0: mejora el bokeh con el contorno real de mesas y superficies, sin la franja horizontal fija. Amplia la seleccion de mesas cortas con dos comensales, platos y objetos, tambien en fotos verticales. Ajusta la comprobacion de caras de perfil y falsas detecciones de accesorios, conservando las comprobaciones de huecos reales. Mantiene el motor hibrido, el instalador con porcentaje, las dependencias y los modelos existentes; no publica claves ni configuracion local.",
-  "published_at": "2026-10-14T11:30:07Z"
+  "version": "3.10.0",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.10.0_online.zip",
+  "sha256": "b362429a82695d272f7cd3b5dc77aba8e52c829e6139f6911b3fde017563d67f",
+  "notes": "Maskerade 3.10.0: Arreglar foto permite probar bokeh de 0 a 100 sin cambiar la mascara. Distingue foto y lote manuales del Modo Automatico, mejora la navegacion del preview y sus etiquetas, precarga bokeh y retoque, y muestra el progreso local sin depender de Cloud. Reorganiza Retoque fotografico y corrige su interruptor. El doble clic activa la instancia existente sin reiniciar la carga. El splash de actualizacion conserva porcentaje y barra, sin tiempo. Mantiene modelos, dependencias y configuracion local; no publica claves.",
+  "published_at": "2026-10-16T11:14:42Z"
 }
