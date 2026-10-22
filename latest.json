@@ -1,7 +1,7 @@
 {
-  "version": "3.10.0",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.10.0_online.zip",
-  "sha256": "b362429a82695d272f7cd3b5dc77aba8e52c829e6139f6911b3fde017563d67f",
-  "notes": "Maskerade 3.10.0: Arreglar foto permite probar bokeh de 0 a 100 sin cambiar la mascara. Distingue foto y lote manuales del Modo Automatico, mejora la navegacion del preview y sus etiquetas, precarga bokeh y retoque, y muestra el progreso local sin depender de Cloud. Reorganiza Retoque fotografico y corrige su interruptor. El doble clic activa la instancia existente sin reiniciar la carga. El splash de actualizacion conserva porcentaje y barra, sin tiempo. Mantiene modelos, dependencias y configuracion local; no publica claves.",
-  "published_at": "2026-10-16T11:14:42Z"
+  "version": "3.11.0",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.11.0_online.zip",
+  "sha256": "c39ef2cc33867d4504f7b7c441cc92a28776c0290913b385f603c2897be8e2ee",
+  "notes": "Maskerade 3.11.0: Harmonize adapta luz y color al fondo seleccionado, protege piel y detalle y conserva la mascara. Las pruebas de reparacion no cambian los ajustes principales; bokeh 0 respeta el retoque desactivado. Unifica Aceptar y abrir ACDSee y espera el archivo final descargado de Cloud sin alterar su modo habitual. Corrige carreras en el archivado Cloud y precarga SAM2 y caras tambien con bokeh 0. Conserva modelos, dependencias y configuracion local; no publica claves.",
+  "published_at": "2026-10-22T10:10:57Z"
 }
