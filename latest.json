@@ -1,7 +1,7 @@
 {
-  "version": "3.11.0",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.11.0_online.zip",
-  "sha256": "c39ef2cc33867d4504f7b7c441cc92a28776c0290913b385f603c2897be8e2ee",
-  "notes": "Maskerade 3.11.0: Harmonize adapta luz y color al fondo seleccionado, protege piel y detalle y conserva la mascara. Las pruebas de reparacion no cambian los ajustes principales; bokeh 0 respeta el retoque desactivado. Unifica Aceptar y abrir ACDSee y espera el archivo final descargado de Cloud sin alterar su modo habitual. Corrige carreras en el archivado Cloud y precarga SAM2 y caras tambien con bokeh 0. Conserva modelos, dependencias y configuracion local; no publica claves.",
-  "published_at": "2026-10-22T10:10:57Z"
+  "version": "3.11.1",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.11.1_online.zip",
+  "sha256": "1708b3b9c4be003ce959ca5acf2e768f84d41d141c242db032fc5a39aeefdd03",
+  "notes": "Maskerade 3.11.1: Corrige Parar sin bloquear la interfaz ni cerrar Python ajenos. Restaura Sin fondo tras Bokeh, retoque o parada. Hotfolder muestra los ajustes, preset y capas realmente aplicados sin alterar la composicion guardada. Permite asignacion automatica para Todas las fotos, con prioridad para reglas especificas. Corrige las miniaturas Bokeh y la etiqueta QEnhancer. Conserva modelos, dependencias y configuracion local; no publica claves.",
+  "published_at": "2026-10-23T11:18:28Z"
 }
