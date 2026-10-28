@@ -1,7 +1,7 @@
 {
-  "version": "3.11.1",
-  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.11.1_online.zip",
-  "sha256": "1708b3b9c4be003ce959ca5acf2e768f84d41d141c242db032fc5a39aeefdd03",
-  "notes": "Maskerade 3.11.1: Corrige Parar sin bloquear la interfaz ni cerrar Python ajenos. Restaura Sin fondo tras Bokeh, retoque o parada. Hotfolder muestra los ajustes, preset y capas realmente aplicados sin alterar la composicion guardada. Permite asignacion automatica para Todas las fotos, con prioridad para reglas especificas. Corrige las miniaturas Bokeh y la etiqueta QEnhancer. Conserva modelos, dependencias y configuracion local; no publica claves.",
-  "published_at": "2026-10-23T11:18:28Z"
+  "version": "3.18.0",
+  "url": "https://raw.githubusercontent.com/paukigm-sys/Maskerade-updates/main/packages/Maskerade_update_3.18.0_online.zip",
+  "sha256": "ff14c464a0b7c568356338965b558649b2dcf006293ed4cf00e879304fa24ce4",
+  "notes": "Maskerade 3.18.0: Fondos negro y estudio normales con recorte hibrido. Bokeh con BEN2 y rescate de caras validado. Preview provisional seguida de la final de produccion, con reutilizacion de recortes recientes. Orientacion H/V automatica en foto y lote manuales respetando los controles editados y EXIF. Corrige arrastre del logo, pruebas repetidas y avisos de IN. Mejora limpieza de vehiculos y sombras bajo las suelas. Incluye los modelos auxiliares necesarios, conserva los ya validos y la configuracion local; no publica claves.",
+  "published_at": "2026-10-28T12:07:32Z"
 }
